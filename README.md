@@ -1,11 +1,21 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# 项目列表
 
-To start the slide show:
+- 二姐速拼后台，快递单打印
+- 核酸检测小程序
+- 星原数字平台
+- 同济医院后台
+- C7游戏盒子APP
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+- 维护小程序
+  - 旭辉小程序
+  - 弘阳小程序
+  - 光谷创新天地小程序
+  - 新媒体互动
 
-Edit the [slides.md](./slides.md) to see the changes.
+- 重构项目
+  - 般若考勤
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+- 开源项目
+  - Bore Admin (server)
+  - Bore Template
+  - Bore CLI
