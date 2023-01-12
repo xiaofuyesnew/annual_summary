@@ -19,11 +19,107 @@ title: 2022 年终总结
 
 # 2022 年参与制作的项目
 
-<Project />
+<div v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0}" v-if="$slidev.nav.currentPage === 2">
+二姐速拼后台
+</div>
+
+<project />
 
 ---
 
-# 项目图略展示
+# 2022 年参与制作的项目
+
+<div v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0}" v-if="$slidev.nav.currentPage === 3">
+便利检
+</div>
+
+<project />
+
+---
+
+# 2022 年参与制作的项目
+
+<div v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0}" v-if="$slidev.nav.currentPage === 4">
+星原数艺
+</div>
+
+<project />
+
+---
+
+# 2022 年参与制作的项目
+
+<div v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0}" v-if="$slidev.nav.currentPage === 5">
+同济医院宣传管理系统
+</div>
+
+<project />
+
+---
+
+# 2022 年参与制作的项目
+
+<div v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0}" v-if="$slidev.nav.currentPage === 6">
+C7 游戏盒子 APP
+</div>
+
+<project />
+
+---
+
+# 2022 年进行维护的项目
+
+<img-list />
+
+---
+
+# 2022 年进行维护的项目
+
+<div v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0}" v-if="$slidev.nav.currentPage === 8">
+新媒体互动
+</div>
+
+<project />
+
+---
+
+# 2022 年重构的项目
+
+<div v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0}" v-if="$slidev.nav.currentPage === 9">
+般若考勤
+</div>
+
+<project />
+
+---
+
+# 2022 年开源项目
+
+<div v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0}" v-if="$slidev.nav.currentPage === 10">
+Bore Admin (server)
+</div>
+
+<project />
+
+---
+
+# 2022 年开源项目
+
+<div v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0}" v-if="$slidev.nav.currentPage === 11">
+Bore Template
+</div>
+
+<project />
+
+---
+
+# 2022 年开源项目
+
+<div v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0}" v-if="$slidev.nav.currentPage === 12">
+Bore CLI
+</div>
+
+<project />
 
 ---
 
