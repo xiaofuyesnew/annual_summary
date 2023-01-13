@@ -209,19 +209,30 @@ Bore CLI
 </div>
 
 <ul class="w-full flex flex-col items-center p-16" v-if="$slidev.nav.currentPage === 19">
-  <li class="w-full text-3xl" v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0, transition: {delay: 200}}">过渡依赖人力去处理技术问题</li>
-  <li class="w-full text-3xl" v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0, transition: {delay: 400}}">技术方向不确定，很多方面只能“浅尝辄止”，不能专项深入</li>
-  <li class="w-full text-3xl" v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0, transition: {delay: 600}}">未能有效建立标准化工作流程</li>
+  <li class="w-full text-3xl" v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0, transition: {delay: 200}}">如果行业回暖不理想，需要做好准备</li>
+  <li class="w-full text-3xl" v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0, transition: {delay: 400}}">技术栈更新太快，走技术路线也容易落伍</li>
+  <li class="w-full text-3xl" v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0, transition: {delay: 600}}">业务与技术的挤兑</li>
 </ul>
 
 ---
 
 # 做开源带来的好处
 
+<ul class="w-full flex flex-col items-center p-8" v-if="$slidev.nav.currentPage === 20">
+  <li class="w-full text-3xl" v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0, transition: {delay: 200}}">依托自有开源项目，形成技术社区，储备精准人才</li>
+  <li class="w-full text-3xl" v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0, transition: {delay: 400}}">可开放捐赠渠道，作为开源项目开发参与者的回馈和技术活动经费</li>
+  <li class="w-full text-3xl" v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0, transition: {delay: 600}}">直接对接公司自有业务，有技术改进可以迅速进行（对比使用其他开源库）</li>
+  <li class="w-full text-3xl" v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0, transition: {delay: 800}}">通过开源项目为公司影响力做宣传（提升公司的科技属性）</li>
+</ul>
+
 ---
 
-# 2023 计划
+# 2023 我的计划
 
-- 继续完善开源技术工作
-- 围绕开源技术工作组建技术社群
-- 开拓新的技术领域，寻找新的业务增长点
+<ul class="w-full flex flex-col items-center p-16" v-if="$slidev.nav.currentPage === 21">
+  <li class="w-full text-4xl" v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0, transition: {delay: 200}}">将手头的开源项目完成，并逐步投入公司业务应用</li>
+  <li class="w-full text-4xl" v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0, transition: {delay: 400}}">组建一个开源社区，维护一批技术从业人员</li>
+  <li class="w-full text-4xl" v-motion :initial="{opacity: 0, x: -80}" :enter="{opacity: 1, x: 0, transition: {delay: 600}}">新媒体互动改版变现</li>
+</ul>
+
+<div class="text-2xl flex justify-center">*如对以上任意一项感兴趣，欢迎随时与我进行交流</div>
