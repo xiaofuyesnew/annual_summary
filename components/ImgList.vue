@@ -10,11 +10,11 @@ const list = [
   },
   {
     image: w_2,
-    text: '旭辉铂悦湘江'
+    text: '弘阳问卷'
   },
   {
     image: w_3,
-    text: '旭辉铂悦湘江'
+    text: '光谷创新天地'
   }
 ]
 
